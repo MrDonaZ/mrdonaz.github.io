@@ -1,0 +1,10 @@
+site_name: 'Standard BIM Aziendali'
+use_directory_urls: true
+theme:
+  name: 'material'
+nav:
+  - 'Introduzione': 'index.md'
+  - 'Software e Versioni': 'software-e-versioni.md'
+  - 'Ruoli e Responsabilità': 'ruoli-e-responsabilita.md'
+  - 'Riferimenti Normativi': 'riferimenti-normativi.md'
+  - 'Directory BIM&DIGITAL': 'directory-bim-digital.md'
