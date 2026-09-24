@@ -23,4 +23,4 @@ Per completezza bisogna ricordare che ogni passaggio di questo documento va inte
 ## Cronologia revisioni
 
 *   **v1.0.0 (revisione corrente)**
-    *   Prima emissione del documento
+    *   Prima emissione del documento AAA
